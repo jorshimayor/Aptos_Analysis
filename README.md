@@ -1,2 +1,2 @@
-# Sei_Analysis
-An analysis of Sei Blockchain
+# Aptos_Analysis
+An analysis of Aptos Blockchain
